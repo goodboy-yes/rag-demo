@@ -1,0 +1,2 @@
+{"text":"BAAI/bge-small-zh-v1.5 是一个适合中文语义检索的轻量 embedding 模型，输出 512 维向量。","topic":"embedding-model"}
+{"content":"chunk size 和 overlap 会影响召回效果。chunk 太大容易混入噪声，chunk 太小可能丢失上下文。","topic":"chunking"}
